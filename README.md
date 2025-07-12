@@ -1,6 +1,6 @@
 # CacheMiss 📝
 
-![CacheMiss](public/cachemiss-og.png)
+<img src="public/cachemiss-og.png" alt="CacheMiss" width="400" height="300">
 
 **CacheMiss** is a clean, minimal, accessible, and SEO-friendly personal blog site — a place to share thoughts, technical deep dives, CTF writeups, photography rants, and occasional poetry.
 
