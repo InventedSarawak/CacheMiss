@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-# About CacheMiss
+## About CacheMiss
 
 Welcome to **CacheMiss** — a blog that _looks like a kernel panic but reads like a stream of consciousness_.
 

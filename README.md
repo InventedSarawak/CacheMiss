@@ -28,7 +28,6 @@ Read [the blog posts](https://astro-paper.pages.dev/posts/) or check [the README
 
 _Note: I've tested screen-reader accessibility of AstroPaper using **VoiceOver** on Mac and **TalkBack** on Android. I couldn't test all other screen-readers out there. However, accessibility enhancements in AstroPaper should be working fine on others as well._
 
-
 ## 🚀 Project Structure
 
 Inside of AstroPaper, you'll see the following folders and files:
